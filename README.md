@@ -2,13 +2,12 @@
 
 Hub stands designed for bathroom scales corner weighing and DIY alignment.
 
+- M12 bolts
 - designed for 2x260x260mm bathroom scales
 - hub center max diameter of 72.5mm
 
 
 ## Bolt patterns
-
-M12 bolts
 
 - 4x98 to 4x114
 - 5x100 to 5x130
