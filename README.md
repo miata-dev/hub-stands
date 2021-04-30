@@ -2,6 +2,9 @@
 
 Hub stands designed for bathroom scales corner weighing and DIY alignment.
 
+- designed for 2x260x260mm bathroom scales
+- hub center max diameter of 72.5mm
+
 
 ## Bolt patterns
 
